@@ -120,7 +120,8 @@ header .intro-text .skills {
 
     header .intro-text .skills {
         font-size: 1.75em;
-        font-family: 'Playfair Display', serif;
+        /* font-family: 'Playfair Display', serif;  */
+        font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     }
 }
 
